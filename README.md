@@ -14,7 +14,7 @@
 ## Dashboard
 Link para o dashboard: [Aqui](https://app.powerbi.com/view?r=eyJrIjoiYzM0ZmEwODgtOTg2MS00ZTk4LTg4MDYtZGNkNWVlOWNiZDA0IiwidCI6IjRjZDgzNWY0LTU0NDAtNDA4Zi05M2EzLTk3NWZjMTdjMzg0YSIsImMiOjR9)
 
-## Introdução
+## ATIVIDADES
 ```plaintext
 As atividades executadas tiveram o planejamento realizado por meio de reuniões no meet ou via mensagens.
 
@@ -29,6 +29,86 @@ As atividades executadas tiveram o planejamento realizado por meio de reuniões 
 18/06/2024 - Ao longo da semana realizamos a construção do dashboard para ser apresentado, nesse processo realizamos um novo pré - processamento da base pelo próprio Power BI (via Power query), com o intuito de mostrar alguns dados que não estavamos utilizando no nosso modelo. Finalizamos a construção do dashboad e apresentamos. No que se refere ao algoritmo Pedro e Frabricio ficaram de melhorar o modelo e realizar novos testes. Wallace e Marcio continuam sem prestar auxilio a equipe.
 
 25/06/2024 - Essa semana fizemos algumas melhorias no Dashboard, com as pontuações que as professoras fizeram na semana passada. Ainda precisamos fazer outras modificações pensando em questão de otimização e inserir mais alguns dados que seriam interessantes de serem visualizados. Também vamos ajustar o readme do Git, visto que pecamos um pouco nesse quesito. Assim como nas demais semanas Wallace e Marcio seguem sem participar.
+```
+
+## RELATÓRIO - Pré-processamento e Análise de dados
+```plaintext
+
+-Coleta de Dados:
+
+Os dados foram coletados a partir da base de dados da dengue, fornecida pelos professores.
+
+-Limpeza de Dados:
+
+Remoção de valores nulos e tratamento de dados ausentes.
+Correção de inconsistências nos dados.
+Remoção de duplicatas.
+
+-Transformação de Dados:
+
+Normalização e padronização das variáveis.
+Criação de novas variáveis relevantes a partir das existentes.
+
+-Análise Exploratória de Dados:
+
+Identificação de correlações entre as variáveis.
+Análise de variáveis importantes e seleção de características.
+```
+
+## RELATÓRIO - Algorítimo de aprendizado de máquina
+```plaintext
+
+-Seleção do Modelo:
+
+Consideração de diferentes algoritmos de aprendizado de máquina.
+Testes com os diferentes algoritmos considerados.
+
+-Divisão dos Dados:
+
+Separação dos dados em conjuntos de treinamento e teste com diferentes proporções.
+
+-Treinamento do Modelo:
+
+Treinamento do modelo usando o conjunto de treinamento.
+Ajuste de hiperparâmetros utilizando técnicas de validação cruzada.
+
+-Validação do Modelo:
+
+Avaliação do desempenho do modelo usando métricas como acurácia, precisão, recall e F1-score.
+
+```
+
+## RELATÓRIO - Análise dos resultados
+```plaintext
+
+-Métricas de Avaliação:
+
+Acurácia do modelo.
+Precisão.
+Recall.
+F1-score.
+
+-Interpretação dos Resultados:
+
+A acurácia do modelo ficou abaixo do esperado.
+Análise de possíveis causas para a baixa acurácia:
+Complexidade dos dados e possível inadequação do modelo selecionado.
+Necessidade de mais dados ou de uma melhor representação das características.
+
+```
+
+## RELATÓRIO - Entrega do modelo
+```plaintext
+
+-Construção do relatório
+
+Construção e apresentação de um relatório power BI.
+
+-Documentação:
+
+Detalhamento do processo de desenvolvimento do modelo.
+Descrição das etapas de pré-processamento, seleção do modelo e análise dos resultados.
+Instruções para a reprodução dos resultados e uso do modelo.
 ```
 ## Estatística Descritiva
 
